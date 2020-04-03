@@ -1,3 +1,10 @@
+/*------------------------------------------------------------------------------
+  10/20/2019
+  Author: Narendra
+  Platforms: ESP8266
+  Language: C++/Arduino
+  File: IoT Plant MQTT v1.0.ino
+*/
 #include "DHTesp.h"
 
 #ifdef ESP32
